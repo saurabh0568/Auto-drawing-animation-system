@@ -1,4 +1,5 @@
 AUTO-DRAWING-ANIMATION-SYSTEM
+
 Python script that creates a graphical user interface (GUI) using the tkinter library for a drawing and animation application.
 ❖	Importing Libraries:
   Importing necessary libraries including tkinter, PIL (Python Imaging Library), sketchpy, turtle, and matplotlib.
