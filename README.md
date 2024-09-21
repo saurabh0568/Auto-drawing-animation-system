@@ -31,8 +31,14 @@ These functions are called when corresponding buttons are clicked in the GUI.
 Overall, it creates a GUI for a drawing and animation application with features like login, registration, password recovery and multiple options using the tkinter library in Python.
 
 
+
+
 ●	tkinter: Used for GUI creation.
+
 ●	PIL (Python Imaging Library): Used for image processing tasks.
+
 ●	turtle: Used for drawing graphics.
+
 ●	sketchpy: A custom library used for sketching functionality.
+
 ●	matplotlib: Used for plotting and animations.
